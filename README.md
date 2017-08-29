@@ -1,6 +1,8 @@
 # JSDML
 The Jensen-Shannon Divergence and Machine Learning Toolbox
-Nicholas Carrara, Jesse Ernst
+
+Nicholas Carrara (ncarrara@albany.edu), Jesse Ernst
+
 (with some code borrowed from Greg Ver Steeg's NPEET package (https://github.com/gregversteeg/NPEET))
 
 The JSDML is a python package that implements a neural network using Keras/Tensorflow for feature selection and also calculates MI or the JSD between features and class labels using methods developed by Kraskov (https://arxiv.org/pdf/cond-mat/0305641.pdf) and modified code from NPEET (https://github.com/gregversteeg/NPEET).
