@@ -1,7 +1,10 @@
 # JSDML
 The Jensen-Shannon Divergence and Machine Learning Toolbox
 
-Nicholas Carrara (ncarrara@albany.edu), Jesse Ernst
+==========================================================================
+Code written by  Nick Carrara (and including several routines written by G. Ver Steeg). 
+Based on: “On the Upper Limit of Separability”, Nick Carrara, Jesse Ernst, arXiv:1708.09449 [hep-ex].
+==========================================================================
 
 (with some code borrowed from Greg Ver Steeg's NPEET package (https://github.com/gregversteeg/NPEET))
 
