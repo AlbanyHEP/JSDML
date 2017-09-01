@@ -1,5 +1,8 @@
-#		JSD/Neural Network Implementation										             written by  Nicholas Carrara	7/19/17
-#												  (and including routines by Greg Ver Steeg (https://github.com/gregversteeg/NPEET))
+#		JSD/Neural Network Implementation										          
+#==========================================================================
+#Code written by  Nick Carrara (and including several routines written by G. Ver Steeg). 
+#Based on: “On the Upper Limit of Separability”, Nick Carrara, Jesse Ernst, arXiv:1708.09449 [hep-ex].
+==========================================================================
 '''
 	This is an implementation of a neural network using Keras and for calculating the Jensen-Shannon divergence on a continuous
 	data set in N dimensions to compare with the neural network output which is typically one dimensional.  An example is included 
